@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "digital_diggers:monero"
+    }
+  },
+  "result": {
+    "item": "digital_diggers:block_of_monero"
+  }
+}

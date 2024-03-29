@@ -1,0 +1,19 @@
+{
+  "item.digital_diggers.monero": "Monero",
+  "item.digital_diggers.bitcoin": "Bitcoin",
+  "item.digital_diggers.dogecoin": "Dogecoin",
+  "item.digital_diggers.ethereum": "Ethereum",
+  "item.digital_diggers.litecoin": "Litecoin",
+  "item.digital_diggers.ravencoin": "Ravencoin",
+
+  "block.digital_diggers.miner": "Miner",
+  "block.digital_diggers.block_of_bitcoin": "Block of Bitocin",
+  "block.digital_diggers.bitcoin_ore": "Bitcoin Ore",
+  "block.digital_diggers.block_of_dogecoin": "Block of Dogecoin",
+  "block.digital_diggers.block_of_litecoin": "Block of Litecoin",
+  "block.digital_diggers.block_of_ethereum": "Block of Ethereum",
+  "block.digital_diggers.block_of_monero": "Block of Monero",
+  "block.digital_diggers.block_of_ravencoin": "Block of Ravencoin",
+
+  "creativetab.digital_diggers_tab": "Digital Diggers"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "digital_diggers:block/block_of_ravencoin"
+  }
+}

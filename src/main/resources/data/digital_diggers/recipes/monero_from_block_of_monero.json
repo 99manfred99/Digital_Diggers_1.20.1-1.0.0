@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "digital_diggers:block_of_monero"
+    }
+  ],
+  "result": {
+    "item": "digital_diggers:monero",
+    "count": 9
+  }
+}
