@@ -21,6 +21,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> MINER = registerBlock("miner",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.ANVIL)));
 
+    public static final RegistryObject<Block> MINER_V2 = registerBlock("miner_v2",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.ANVIL)));
+
     //lustige Blöcke
     public static final RegistryObject<Block> BLOCK_OF_BITCOIN = registerBlock("block_of_bitcoin",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.NETHER_GOLD_ORE)));

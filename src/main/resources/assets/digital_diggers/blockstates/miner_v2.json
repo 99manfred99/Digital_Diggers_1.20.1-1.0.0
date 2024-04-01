@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "digital_diggers:block/miner_v2"
+    }
+  }
+}
